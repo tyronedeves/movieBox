@@ -11,6 +11,7 @@ const _layout = () => {
         options={{
             headerShown: false,
             title: 'Home',
+            
            
         }}
         />
